@@ -24,6 +24,7 @@ a{
 #home-body-content {
     max-width: 67%;
     overflow: hidden;
+    justify-content: center;
 }
 
 #footer {
@@ -77,6 +78,10 @@ a{
 
 .page-content-text {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.page-content > img {
+    border: 8px solid rgb(206, 206, 206);
 }
 
 /* Classes end ***********/
