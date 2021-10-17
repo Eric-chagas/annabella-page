@@ -84,4 +84,27 @@ a{
     border: 8px solid rgb(206, 206, 206);
 }
 
+.btn {
+    border-radius: 5px;
+    border-color: #483566;
+    background-color: #483566;
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+.btn > input{
+    border: none;
+    background-color: inherit;
+    color: inherit;
+    font-weight: inherit;
+}
+
+.btn > input:hover{
+    cursor: inherit;    
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
 /* Classes end ***********/
