@@ -1,5 +1,5 @@
 # Annabella-page
-Anna bella's model page created for front-end study purposes.
+Simple fictional Anna bella's model page created for front-end study purposes.
 <hr>
 
 ### Tools and languages
